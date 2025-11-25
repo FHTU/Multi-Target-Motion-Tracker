@@ -24,12 +24,6 @@ subtraction, localized centroid tracking, and adaptive tracking windows.
     python motion_tracker.py
   ```
 
-## Controls
-
-  Key         Action
-  ----------- -------------------------------------
-  Q           Quit the program
-
 ## How It Works
 
 ### 1. Background Sampling
